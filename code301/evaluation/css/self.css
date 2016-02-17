@@ -1,0 +1,24 @@
+body {
+	margin: 0px auto;
+	margin-left: 0px;
+	margin-right: 20px;
+	border: 0px solid #333;
+	overflow: scroll;
+	font-family:Georgia,Microsoft JhengHei,sans-serif;
+	font-size:26px;
+	color:purple;
+	background-image: url(../image/0050.gif);
+}
+.nav {
+	display: inline-block;
+	width: 240px;
+	height: 100px;
+	margin-top: 0em;
+	color: #CFC;
+}
+.column {
+  display: inline-block;
+  vertical-align: top;
+  width: 70%;
+  height: 100%;
+}
