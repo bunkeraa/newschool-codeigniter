@@ -1,2 +1,2 @@
 # newschool-codeigniter
-test
+路徑：C:\wagon\uwamp\phpapps\uwamp
